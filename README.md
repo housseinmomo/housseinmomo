@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdoulfatah Houssein Kaire Aka Mugen
 - 👀 I’m interested in ['mangas' , 'book' , 'food']
-- 🌱 I’m currently learning JS / JAVA 
+- 🌱 I’m currently learning JS / JAVA / Flutter / JEE / Oracle 
 
 <!---
 housseinmomo/housseinmomo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
